@@ -1,0 +1,18 @@
+{
+    "description": "Pedro Composer OO",
+    "authors": [
+        {
+            "name": "Pedro Henrique",
+            "email": "henrck.souza112@gmai.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sts\\": "app/sts",
+            "Core\\": "core"
+        }
+    },
+    "require": {
+        
+    }
+}
